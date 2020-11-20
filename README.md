@@ -1,6 +1,6 @@
 # IPL-2019
 
-We have covered the basic analysis from IPL 2008 to IPL 2018.
+I have covered the basic analysis from IPL 2008 to IPL 2018.
 
 1. Number of matches each season
 2. Number of matches in each venue
